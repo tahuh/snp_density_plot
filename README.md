@@ -5,7 +5,9 @@ Plots Location of SNPs
 see data directory
 
 gene_range.tsv : Genomic range of given gene
+
 txt files : Files contain exon(coding sequence) genomic coordinate information for given gene
+
 snps : The snps
 
 ## License
